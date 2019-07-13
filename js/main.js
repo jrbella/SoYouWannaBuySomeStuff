@@ -11,7 +11,7 @@ let navbarTemplate = `
                 <a class="nav-link" href="">Location</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="">Depatments</a>
+                <a class="nav-link" href="">Departments</a>
             </li>
             <li class="nav-item">
                     <a class="nav-link" href="myCart.html">My Cart </a>
