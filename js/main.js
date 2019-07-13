@@ -16,12 +16,10 @@ let navbarTemplate = `
             <li class="nav-item">
                     <a class="nav-link" href="myCart.html">My Cart </a>
                 </li>
-
         </ul>
     </nav>    
 `
 
 function newContent() {
     var navbar = document.getElementById("navBar").innerHTML = navbarTemplate;
-    
 }
