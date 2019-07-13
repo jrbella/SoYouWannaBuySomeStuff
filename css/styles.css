@@ -1,5 +1,5 @@
 body {
-    background-color: #66BFBF;
+    background-color: #000
 }
 /* Add a black background color to the top navigation bar */
 .topnav {
@@ -88,3 +88,23 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+  /* for search bar on index.html */
+  #dropdownSearch {
+    background-color: #000
+  }
+  .active-pink-4 input[type=text]:focus:not([readonly]) {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+    }
+
+
+    .container {
+      width: 100%
+
+    }
+    #carouselExampleIndicators {
+      margin-left: 100px;
+      margin-right: 100px
+ 
+    }
