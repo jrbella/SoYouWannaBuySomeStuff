@@ -2,7 +2,7 @@
 //defining navbar code
 let navbarTemplate = `
 <nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
-  <a class="navbar-brand" href="#">So you wanna buy some stuff?!!  </a>
+  <a class="navbar-brand" href="index.html">So you wanna buy some stuff?!!  </a>
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navb" aria-expanded="true">
     <span class="navbar-toggler-icon"></span>
   </button>
